@@ -56,3 +56,6 @@ To download a song or playlist, run the script and provide the YouTube URL when 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Disclaimer
+This tool is intended for downloading non-copyrighted songs only. I do not claim any rights to the songs downloaded using this tool.
